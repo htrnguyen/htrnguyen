@@ -9,7 +9,7 @@
 
 -   🌱 I’m currently learning **Business Analytics (BA), Data Analysis (DA), Prompt Engineering, and Artificial Intelligence (AI) Science.**
 
-<!-- -   📝 My Certifications [https://www.facebook.com/](https://www.facebook.com/) -->
+-   📝 My Certifications [nguyen-certificates](https://nguyen-certificates.streamlit.app/)
 
 -   📫 How to reach me **hatrongnguyen04@gmail.com**
 
