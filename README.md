@@ -14,7 +14,7 @@
 
 -   🌱 I’m currently learning **Business Analytics (BA), Data Analysis (DA) and Artificial Intelligence (AI) Science.**
 
--   📝 My Certifications [Ha Trong Nguyen - Certificates](https://nguyenn-04.github.io/)
+-   📝 My Certifications [Ha Trong Nguyen - Certificates](https://nguyenn-04.github.io/My-Certificates/)
 
 -   📫 How to reach me **hatrongnguyen04@gmail.com**
 
