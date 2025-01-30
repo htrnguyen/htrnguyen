@@ -14,6 +14,18 @@
 
 🌐 Visit my [Profile](https://htrnguyen.github.io) to see more about my work and projects!
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/htrnguyen/">
+    <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.facebook.com/htrnguyenn">
+    <img src="https://img.icons8.com/ios-filled/50/3b5998/facebook.png" alt="Facebook" width="40" height="40"/>
+  </a>
+  <a href="mailto:hatrongnguyen04@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/FF0000/gmail.png" alt="Gmail" width="40" height="40"/>
+  </a>
+</p>
+
 #### Languages:
 
 <p align="left">
@@ -53,4 +65,3 @@
 
 | <a href="https://github.com/htrnguyen/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=htrnguyen&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nguyen's github stats" /></a> | <a href="https://github.com/htrnguyen/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htrnguyen&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
