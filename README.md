@@ -4,7 +4,7 @@
   </a>
 </p>
 
-### About Me
+#### About Me
 
 🌱 I’m currently a **third-year Computer Science student** at **Ton Duc Thang University** 🇻🇳
 
@@ -13,8 +13,6 @@
 📝 Click here to view my [Certifications](https://htrnguyen.github.io/My-Certificates/)
 
 🌐 Visit my [Profile](https://htrnguyen.github.io) to see more about my work and projects!
-
-### Skills and Tools
 
 #### Languages:
 
@@ -53,23 +51,11 @@
   </a>
 </p>
 
-### GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=htrnguyen&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nguyen's GitHub Stats" width="35%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htrnguyen&layout=compact&theme=buefy&hide_border=true" alt="Most Used Languages" width="35%" />
-</p>
-
-### Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/htrnguyen/">
-    <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://github.com/htrnguyen/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=htrnguyen&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nguyen's GitHub Stats" width="45%" style="border: 2px solid #ddd; padding: 10px; border-radius: 10px;" />
   </a>
-  <a href="https://www.facebook.com/htrnguyenn">
-    <img src="https://img.icons8.com/ios-filled/50/3b5998/facebook.png" alt="Facebook" width="40" height="40"/>
-  </a>
-  <a href="mailto:hatrongnguyen04@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/FF0000/gmail.png" alt="Gmail" width="40" height="40"/>
+  <a href="https://github.com/htrnguyen/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htrnguyen&layout=compact&theme=buefy&hide_border=true" alt="Most Used Languages" width="45%" style="border: 2px solid #ddd; padding: 10px; border-radius: 10px;" />
   </a>
 </p>
