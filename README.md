@@ -1,38 +1,75 @@
-<!-- ![Header](asset/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif) -->
-<div align="center">
-	
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%2336BCF7&size=30&duration=1600&lines=Ch%C3%A0o+th%E1%BA%BF+gi%E1%BB%9Bi!;Hello+World!;%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C!;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%D0%BC%D0%B8%D1%80!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%B8%96%E7%95%8C!;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!;Bonjour+monde!;Halo+Dunia!;%E0%BA%AA%E0%BA%B0%E2%80%8B%E0%BA%9A%E0%BA%B2%E0%BA%8D%E2%80%8B%E0%BA%94%E0%BA%B5%E2%80%8B%E0%BA%8A%E0%BA%B2%E0%BA%A7%E2%80%8B%E0%BB%82%E0%BA%A5%E0%BA%81!;Hallo+Welt!;%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B9%82%E0%B8%A5%E0%B8%81;Hola+Mundo">
-
-
-
-</div>
-
-<h1 align="center">Hi 👋, I'm Nguyen</h1>
-<h3 align="center">I am a student at Ton Duc Thang University, majoring in Computer Science.</h3>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=htrnguyen" alt="htrnguyen" /></a> </p> -->
-
-<img align="right" alt="Coding" width="400" src="./asset/avento.webp">
-
--   🌱 I’m currently learning **Business Analytics (BA), and Artificial Intelligence (AI) Science.**
-
--   📝 My Certifications [Ha Trong Nguyen - Certificates](https://htrnguyen.github.io/My-Certificates/)
-
--   📫 How to reach me **hatrongnguyen04@gmail.com**
-
--   🌐 My Profile [htrnguyen.github.io](https://htrnguyen.github.io)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/htrnguyen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.facebook.com/trongnguyen2304" height="30" width="40" /></a>
-<a href="https://www.facebook.com/htrnguyenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/trongnguyen2304" height="30" width="40" /></a>
+<p align="center" style="padding-top: 50px">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=2000&pause=500&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Nguyen" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=htrnguyen&show_icons=true&locale=en&layout=compact" alt="htrnguyen" /></p>
+🌱 I’m currently a **third-year Computer Science student** at **Ton Duc Thang University** 🇻🇳
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=htrnguyen&show_icons=true&locale=en" alt="htrnguyen" /></p>
+🧠 I’m learning and exploring **Artificial Intelligence (AI)**, **Data Science**, and **Prompt Engineering**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=htrnguyen&" alt="htrnguyen" /></p>
+📝 Click here to view my [Certifications](https://htrnguyen.github.io/My-Certificates/)
+
+🌐 Visit my [Profile](https://htrnguyen.github.io) to see more about my work and projects!
+
+### Skills and Tools
+
+#### Languages:
+
+<p align="left">
+  <a href="https://www.python.org">
+    <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+</p>
+
+#### Tools & Libraries:
+
+<p align="left">
+  <a href="https://code.visualstudio.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="30" height="40"/>
+  </a>
+  <a href="https://colab.research.google.com/">
+    <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40" height="40"/>
+  </a>
+  <a href="https://www.kaggle.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="30" height="40"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://docs.conda.io/">
+    <img src="https://raw.githubusercontent.com/kalefranz/conda-packages/refs/heads/master/anaconda-latest/anaconda.ico" alt="Conda" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  </a>
+</p>
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=htrnguyen&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nguyen's GitHub Stats" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htrnguyen&layout=compact&theme=buefy&hide_border=true" alt="Most Used Languages" width="35%" />
+</p>
+
+### Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/htrnguyen/">
+    <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.facebook.com/htrnguyenn">
+    <img src="https://img.icons8.com/ios-filled/50/3b5998/facebook.png" alt="Facebook" width="40" height="40"/>
+  </a>
+  <a href="mailto:hatrongnguyen04@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/FF0000/gmail.png" alt="Gmail" width="40" height="40"/>
+  </a>
+</p>
