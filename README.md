@@ -51,11 +51,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/htrnguyen/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=htrnguyen&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nguyen's GitHub Stats" width="45%" style="border: 2px solid #ddd; padding: 10px; border-radius: 10px;" />
-  </a>
-  <a href="https://github.com/htrnguyen/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htrnguyen&layout=compact&theme=buefy&hide_border=true" alt="Most Used Languages" width="45%" style="border: 2px solid #ddd; padding: 10px; border-radius: 10px;" />
-  </a>
-</p>
+| <a href="https://github.com/htrnguyen/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=htrnguyen&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nguyen's github stats" /></a> | <a href="https://github.com/htrnguyen/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htrnguyen&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
