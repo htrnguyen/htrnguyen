@@ -10,7 +10,7 @@
 
 🧠 I’m learning and exploring **Artificial Intelligence (AI)**, **Data Science**, and **Prompt Engineering**.
 
-📝 Click here to view my [Certifications](https://htrnguyen.github.io/My-Certificates/)
+📝 Click here to view my [Certifications](https://htrnguyen.github.io/certificates/)
 
 🌐 Visit my [Profile](https://htrnguyen.github.io) to see more about my work and projects!
 
