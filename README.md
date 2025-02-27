@@ -12,7 +12,7 @@
 
 📝 Click here to view my [Certifications](https://htrnguyen.github.io/certificates/)
 
-🌐 Visit my [Profile](https://htrnguyen.github.io) to see more about my work and projects!
+🌐 Visit my [Profile](https://htrnguyen.id.vn/) to see more about my work and projects!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/htrnguyen/">
