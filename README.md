@@ -1,7 +1,7 @@
 <!-- Header -->
-<p align="center" style="padding-top: 24px">
+<p align="center" style="padding-top: 12px">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=500&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Nguyen" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=500&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Nguyen" alt="Typing SVG" />
   </a>
 </p>
 
@@ -58,5 +58,5 @@ Deep Learning, Computer Vision, OCR, Image Processing
 
 ## Links
 - Portfolio: [htrnguyen.id.vn](https://htrnguyen.id.vn)  
-- Certifications: [Certificates](https://htrnguyen.github.io/certificates/)  
+- Certifications: [htrnguyen.github.io/certificates](https://htrnguyen.github.io/certificates/)  
 - Email: hatrongnguyen04@gmail.com
