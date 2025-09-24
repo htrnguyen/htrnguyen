@@ -57,6 +57,6 @@ Deep Learning, Computer Vision, OCR, Image Processing
 </p>
 
 ## Links
-- Portfolio: [htrnguyen.id.vn](https://htrnguyen.id.vn)  
-- Certifications: [htrnguyen.github.io/certificates](https://htrnguyen.github.io/certificates/)  
+- Portfolio: [htrnguyen.id.vn](https://htrnguyen.id.vn)
+<!--Certifications: [htrnguyen.github.io/certificates](https://htrnguyen.github.io/certificates/)   -->
 - Email: hatrongnguyen04@gmail.com
