@@ -104,19 +104,19 @@ perception and language understanding to build adaptive and practical AI systems
 ## GitHub Overview
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=htrnguyen&theme=graywhite" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=htrnguyen&theme=graywhite" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=htrnguyen&theme=graywhite" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=htrnguyen&theme=graywhite" />
   &nbsp;&nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=htrnguyen&theme=graywhite" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=htrnguyen&theme=graywhite" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=htrnguyen&theme=graywhite" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=htrnguyen&theme=graywhite" />
   &nbsp;&nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=htrnguyen&theme=graywhite&utcOffset=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=htrnguyen&theme=graywhite&utcOffset=8" />
 </p>
 
 ---
@@ -124,7 +124,7 @@ perception and language understanding to build adaptive and practical AI systems
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=htrnguyen&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=htrnguyen&theme=default&hide_border=true" />
 </p>
 
 ---
@@ -141,4 +141,8 @@ perception and language understanding to build adaptive and practical AI systems
 
 ## Snake
 
-<img src="https://raw.githubusercontent.com/htrnguyen/htrnguyen/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/htrnguyen/htrnguyen/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/htrnguyen/htrnguyen/output/snake-light.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/htrnguyen/htrnguyen/output/snake-light.svg">
+</picture>
