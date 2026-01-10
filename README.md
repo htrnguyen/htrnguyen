@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/htrnguyen/htrnguyen/main/assets/banner.gif" alt="Banner Animation" width="100%" />
+  <img src="https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif" alt="👋 Hi, my name is Nguyen" width="100%" />
 </p>
 
 <p align="center">
