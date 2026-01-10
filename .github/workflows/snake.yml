@@ -1,31 +1,46 @@
 name: Generate snake animation
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
-
   push:
-    branches:
-    - main
+    branches: [main]
+
+concurrency:
+  group: output-branch-deploy
+  cancel-in-progress: true
 
 jobs:
   generate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
-      - name: generate snake.svg
+      - name: Checkout output branch (to preserve existing files)
+        uses: actions/checkout@v4
+        with:
+          ref: output
+          path: out
+        continue-on-error: true
+
+      - name: Prepare dist from existing output
+        run: |
+          mkdir -p dist
+          if [ -d "out" ]; then
+            cp -r out/* dist/ 2>/dev/null || true
+          fi
+
+      - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
+          outputs: |
+            dist/snake.svg?palette=github-dark
 
-
-      - name: push snake.svg to the output branch
+      - name: Deploy dist to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
