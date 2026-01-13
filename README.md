@@ -121,7 +121,7 @@ perception and language understanding to build adaptive and practical AI systems
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=htrnguyen&theme=graywhite" />
   &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=htrnguyen&theme=graywhite&utcOffset=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=htrnguyen&theme=graywhite&utcOffset=7" />
 </p>
 
 <p align="center">
