@@ -11,3 +11,11 @@ AI Engineer researching Large Language Models and Computer Vision.
 - Portfolio: https://htrnguyen.id.vn
 - Certificates: https://htrnguyen.github.io/certificates/
 - LinkedIn: https://www.linkedin.com/in/htrnguyen
+  
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/htrnguyen/htrnguyen/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/htrnguyen/htrnguyen/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/htrnguyen/htrnguyen/output/pacman-contribution-graph.svg">
+</picture>
