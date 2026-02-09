@@ -8,17 +8,16 @@ AI Engineer researching Large Language Models and Computer Vision.
 - 📫 Email: hatrongnguyen.work@gmail.com
 
 **Links**
+
 - Portfolio: https://htrnguyen.id.vn
 - Certificates: https://htrnguyen.github.io/certificates/
 - LinkedIn: https://www.linkedin.com/in/htrnguyen
-  
+
 ---
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/htrnguyen/htrnguyen/output/space-shooter.gif"
     alt="GitHub Space Shooter"
-    width="600"
   />
 </p>
-
