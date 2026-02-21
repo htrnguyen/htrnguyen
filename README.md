@@ -1,11 +1,9 @@
-### Ha Trong Nguyen
+### Ha Trong Nguyen (htrnguyen)
 
-AI Engineer researching Large Language Models and Computer Vision.
+**AI Engineer** 
 
-- 🔭 Focus: LLM applications, multimodal learning, and practical AI systems
-- 🧠 Interests: CV × LLM, prompt engineering, reasoning/evaluation
-- 🤝 Open to: research collaboration / applied AI projects
-- 📫 Email: hatrongnguyen.work@gmail.com
+- 🧠 **Interests:** Computer Vision, LLMs, Applied AI
+- 📫 **Email:** [hatrongnguyen.work@gmail.com](mailto:hatrongnguyen.work@gmail.com)
 
 **Links**
 
