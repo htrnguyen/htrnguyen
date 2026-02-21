@@ -7,9 +7,7 @@
 
 **Links**
 
-- Portfolio: https://htrnguyen.id.vn
-- Certificates: https://htrnguyen.github.io/certificates/
-- LinkedIn: https://www.linkedin.com/in/htrnguyen
+- Portfolio: [https://htrnguyen.id.vn](https://htrnguyen.github.io/)
 
 ---
 
