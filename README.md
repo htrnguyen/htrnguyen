@@ -1,19 +1,31 @@
-### Ha Trong Nguyen (htrnguyen)
+#### Hi 👋, I'm Ha Trong Nguyen
 
-**AI Engineer** 
+#### AI Engineer • Exploring Large Language Models and Intelligent Systems
 
-- 🧠 **Interests:** Computer Vision, LLMs, Applied AI
-- 📫 **Email:** [hatrongnguyen.work@gmail.com](mailto:hatrongnguyen.work@gmail.com)
+- 🧠 AI Engineer based in Vietnam  
+- 🔬 Interested in Computer Vision, Large Language Models, and Applied AI  
+- 🚀 Building intelligent systems that combine vision and language  
+- 📫 Reach me at: **hatrongnguyen.work@gmail.com**
 
-**Links**
+<p align="left">
 
-- Portfolio: [https://htrnguyen.id.vn](https://htrnguyen.github.io/)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
 
----
+</p>
+
+### Links
+
+- Portfolio: https://htrnguyen.github.io  
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/htrnguyen/htrnguyen/output/space-shooter.gif"
-    alt="GitHub Space Shooter"
+    alt="GitHub Animation"
   />
 </p>
