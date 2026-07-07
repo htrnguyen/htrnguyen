@@ -16,7 +16,7 @@
     <li>🤖 <b>AI Engineer</b> based in Vietnam.</li>
     <li>🔬 Interested in <b>Computer Vision, Large Language Models, and Applied AI</b>.</li>
     <li>🚀 Building intelligent systems that combine vision and language.</li>
-    <li>🌐 Portfolio: <b><a href="https://htrnguyen.id.vn">htrnguyen.github.io</a></b></li>
+    <li>🌐 Portfolio: <b><a href="https://htrnguyen.id.vn">htrnguyen.id.vn</a></b></li>
     <li>📫 Reach me at: <b><a href="mailto:hatrongnguyen.work@gmail.com">hatrongnguyen.work@gmail.com</a></b></li>
   </ul>
 </div>
