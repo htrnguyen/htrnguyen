@@ -71,6 +71,7 @@
 </p>
 
 <p align="center">
+  <img height="36" src="https://raw.githubusercontent.com/openai/openai-agents-python/main/docs/assets/logo.svg" alt="OpenAI" title="OpenAI" />
   <img height="36" src="https://cdn.simpleicons.org/anthropic/D97757" alt="Anthropic Claude" title="Anthropic Claude" />
   <img height="36" src="https://cdn.simpleicons.org/googlegemini/4285F4" alt="Google Gemini" title="Google Gemini" />
   <img height="36" src="https://cdn.simpleicons.org/qwen/615CED" alt="Qwen" title="Qwen" />
