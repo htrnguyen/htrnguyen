@@ -81,10 +81,10 @@
 </p>
 
 <p align="center">
-  <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" />
-  <img height="36" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/cursor.svg" alt="Cursor" title="Cursor" />
-  <img height="36" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/antigravity.svg" alt="Google Antigravity" title="Google Antigravity" />
-  <img height="36" src="https://cdn.simpleicons.org/zedindustries/084CCF" alt="Zed" title="Zed" />
+  <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" />
+  <img height="48" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/cursor.svg" alt="Cursor" title="Cursor" />
+  <img height="48" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/antigravity.svg" alt="Google Antigravity" title="Google Antigravity" />
+  <img height="48" src="https://cdn.simpleicons.org/zedindustries/084CCF" alt="Zed" title="Zed" />
 </p>
 
 ### [ telemetry ]
