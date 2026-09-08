@@ -4,8 +4,8 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=AI+Engineer+based+in+Vietnam;LLMs+%26+Multi-Agent+Systems;RAG+%26+Document+AI+(OCR+%2B+KIE);Computer+Vision+in+production"
-    alt="AI Engineer, LLMs, Multi-Agent Systems, Computer Vision"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=AI+Engineer+at+ANZ+Innovation;OCR+%2F+KIE%2C+LLM+Grading+%26+Agentic+RAG;Computer+Vision+in+production"
+    alt="AI Engineer at ANZ Innovation, OCR, LLM grading, agentic RAG, and computer vision"
   />
 </p>
 
@@ -34,8 +34,9 @@
   <h3>About Me</h3>
 
   <ul>
-    <li><b>AI Engineer</b> in Vietnam, building LLM and Computer Vision systems that ship.</li>
-    <li>Working on <b>RAG pipelines, multi-agent orchestration, and document AI (OCR + KIE)</b>.</li>
+    <li><b>AI Engineer at ANZ Innovation</b>, working remotely from Ho Chi Minh City.</li>
+    <li>Building production <b>OCR/KIE, LLM grading, agentic RAG, and computer vision</b> systems.</li>
+    <li><b>B.Sc. Computer Science</b>, Ton Duc Thang University (2026).</li>
     <li>Open to <b>AI Engineer / LLM Engineer</b> roles.</li>
   </ul>
 
@@ -137,23 +138,13 @@
 <br>
 
 <p align="center">
-  <strong>────────────── GitHub Activity ──────────────</strong>
+  <strong>────────────── GitHub Stats ──────────────</strong>
 </p>
 
 <p align="center">
   <img
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=htrnguyen&theme=github-compact&hide_border=true&radius=0"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://raw.githubusercontent.com/htrnguyen/htrnguyen/output/space-shooter.gif"
-    alt="Space Shooter Animation"
+    src="https://aisq.dev/api/github-stats/htrnguyen?style=ufo"
+    alt="htrnguyen's animated GitHub stats"
   />
 </p>
