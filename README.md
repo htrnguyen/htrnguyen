@@ -71,7 +71,7 @@
 </p>
 
 <p align="center">
-  <img height="36" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" alt="OpenAI" title="OpenAI" />
+  <img height="36" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai/default.svg" alt="OpenAI" title="OpenAI" />
   <img height="36" src="https://cdn.simpleicons.org/anthropic/D97757" alt="Anthropic Claude" title="Anthropic Claude" />
   <img height="36" src="https://cdn.simpleicons.org/googlegemini/4285F4" alt="Google Gemini" title="Google Gemini" />
   <img height="36" src="https://cdn.simpleicons.org/qwen/615CED" alt="Qwen" title="Qwen" />
