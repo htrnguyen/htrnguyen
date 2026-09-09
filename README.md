@@ -90,5 +90,5 @@
 ### [ telemetry ]
 
 <p align="center">
-  <img width="100%" src="https://aisq.dev/api/github-stats/htrnguyen?style=ufo" alt="htrnguyen's animated GitHub stats" />
+  <img width="100%" src="https://aisq.dev/api/github-stats/htrnguyen?style=ufo&theme=light" alt="htrnguyen's animated GitHub stats" />
 </p>
